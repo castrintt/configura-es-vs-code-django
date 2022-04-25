@@ -11,20 +11,13 @@
     "editor.fontSize": 15,
     "workbench.colorTheme": "OM Theme (Default Dracula Italic)",
     "workbench.iconTheme": "material-icon-theme",
-    "thunder-client.codeSnippetLanguage": "js-fetch",
     "workbench.startupEditor": "none",
     "editor.cursorStyle": "line-thin",
-    "redhat.telemetry.enabled": true,
     "javascript.updateImportsOnFileMove.enabled": "always",
     "bracket-pair-colorizer-2.depreciation-notice": false,
     "liveServer.settings.donotVerifyTags": true,
     "[vue]": {
         "editor.defaultFormatter": "octref.vetur"
-    },
-    "vs-kubernetes": {
-        "vscode-kubernetes.kubectl-path.linux": "/home/castro/.vs-kubernetes/tools/kubectl/kubectl",
-        "vscode-kubernetes.minikube-path.linux": "/home/castro/.vs-kubernetes/tools/minikube/linux-amd64/minikube",
-        "vscode-kubernetes.helm-path.linux": "/home/castro/.vs-kubernetes/tools/helm/linux-amd64/helm"
     },
     "cSpell.language": "en,pt-BR",
     "cSpell.userWords": [
